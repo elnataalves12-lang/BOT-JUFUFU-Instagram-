@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=800&color=FFC107&center=true&vCenter=true&width=900&height=140&lines=%F0%9F%A4%96+BEM-VINDO+AO+JUFUFU-zzz+%F0%9F%A4%96;Bot+de+Instagram+DM+em+Python;Gr%C3%A1tis+%E2%80%A2+Open+Source+%E2%80%A2+Feito+com+%F0%9F%92%9B" alt="Typing"/>
