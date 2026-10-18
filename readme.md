@@ -1,170 +1,397 @@
-🤖 JUFUFU-zzz — Bot para Instagram DM
+<div align="center">
 
-<p align="center">
-  <img src="file_00000000be08820e9946e6ddefd56f98.png" alt="JUFUFU-zzz Banner" width="100%">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2800&pause=800&color=FFC107&center=true&vCenter=true&width=900&height=140&lines=%F0%9F%A4%96+BEM-VINDO+AO+JUFUFU-zzz+%F0%9F%A4%96;Bot+de+Instagram+DM+em+Python;Gr%C3%A1tis+%E2%80%A2+Open+Source+%E2%80%A2+Feito+com+%F0%9F%92%9B" alt="Typing"/>
 
-<p align="center">
-  <b>Bot gratuito para Instagram Direct</b> · Comandos de música, edição de mídia, brincadeiras e mais.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz/tree/main">
-    <img src="https://img.shields.io/badge/WhatsApp-Bot%20Gratuito-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bot">
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e">
-    <img src="https://img.shields.io/badge/Canal%20Oficial-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal">
-  </a>
-  <a href="https://wa.me/5591985500390">
-    <img src="https://img.shields.io/badge/Desenvolvedor-Contato-FFB300?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Contato">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=180&section=header&text=JUFUFU-zzz&fontSize=70&fontAlignY=40&fontColor=000000&animation=twinkling&desc=Instagram%20DM%20Bot%20%E2%80%A2%20Python&descAlignY=62&descSize=20&descColor=000000"/>
 
----
+<img src="file_00000000be08820e9946e6ddefd56f98.png" alt="JUFUFU-zzz Banner" width="900">
 
-⚠️ AVISO IMPORTANTE — LEIA ANTES DE USAR
+<br><br>
 
-Este bot usa a API privada do Instagram (instagrapi), que NÃO é oficial.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFC107&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+M%C3%BAsica+%E2%80%A2+Edi%C3%A7%C3%A3o+%E2%80%A2+Divers%C3%A3o+%E2%9A%A1;%F0%9F%8E%B5+Play+%E2%80%A2+Corta+%E2%80%A2+Mudo+%F0%9F%8E%B5;%F0%9F%92%9B+Gr%C3%A1tis+para+a+comunidade+%F0%9F%92%9B" alt="Typing"/>
 
-Isso significa que o Instagram pode detectar o uso, bloquear temporariamente ou banir permanentemente a conta que estiver rodando o bot. Use por sua conta e risco.
+<br>
 
-O desenvolvedor não se responsabiliza por contas banidas, perdidas ou bloqueadas. O bot é 100% gratuito e entregue no estado em que se encontra ("as is"), sem garantias.
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-">
+  <img src="https://img.shields.io/badge/Instagram%20Bot-Gr%C3%A1tis-FFC107?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/>
+</a>
+<a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e">
+  <img src="https://img.shields.io/badge/Canal%20Oficial-Entrar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://wa.me/5591985500390">
+  <img src="https://img.shields.io/badge/Desenvolvedor-Contato-FFC107?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000"/>
+</a>
 
-🛡️ Como reduzir (muito) o risco de ban
+<br><br>
 
-Siga estas recomendações antes de colocar o bot pra rodar:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-1. NUNCA use sua conta principal. Use uma conta secundária, velha, que você não usa mais — ou crie uma nova.
-2. Se criar uma conta nova, "aqueça" ela antes.
-   · Deixe a conta parada por 3 a 7 dias.
-   · Depois, use manualmente por mais alguns dias: assista Reels, curta vídeos, comente, siga pessoas, mande mensagens para amigos.
-   · Isso cria um "histórico humano" que reduz drasticamente a chance de o Instagram achar que é bot.
-3. Não rode o bot 24h no primeiro dia. Comece com poucas horas, aumente aos poucos.
-4. Não use o bot para spam. Mandar a mesma mensagem para dezenas de pessoas é o caminho mais rápido para o ban.
-5. Se aparecer ChallengeRequired, pare o bot imediatamente e resolva a verificação manualmente no app do Instagram.
+</div>
 
-💡 Regra de ouro: conta nova + bot rodando direto = ban quase garantido. Conta velha + uso humano + bot = risco baixo.
+## 🌟 〘 𝕊𝕆𝔹ℝ𝔼 𝕆 𝕁𝕌𝔽𝕌𝔽𝕌-𝕫𝕫𝕫 〙
 
----
+O **JUFUFU-zzz** é um bot **gratuito e open source** para o **Instagram Direct**, feito em **Python** com a biblioteca [`instagrapi`](https://github.com/subzeroid/instagrapi).
 
-✨ Comandos disponíveis
+Cada pessoa roda **sua própria cópia**, conectando **sua própria conta do Instagram**. O bot **não é um servidor público** — é um projeto para você instalar, personalizar e usar como quiser.
 
-Comando O que faz
-/menu Mostra o menu com imagem
-/play <música> Baixa do YouTube e envia como áudio (≤60s) ou vídeo (>60s)
-/corta (responder mídia) Recorta o centro da foto/vídeo e deixa quadrado 512x512
-/mudo (responder vídeo) Remove o áudio do vídeo
-/ping Mostra status do bot
-/perfil Perfil de brincadeira
-/id Mostra seu ID e o ID da conversa
-/dado Rola um dado (1–6)
-/moeda Cara ou coroa
+> 💛 **100% gratuito.** Sem mensalidade, sem chave paga, sem pegadinha.
 
-Todos os comandos aceitam os prefixos !, / ou . (editável em config.py).
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
----
+## ⚠️ 〘 𝔸𝕍𝕀𝕊𝕆 𝕀𝕄ℙ𝕆ℝ𝕋𝔸ℕ𝕋𝔼 — 𝕃𝔼𝕀𝔸 𝔸ℕ𝕋𝔼𝕊 𝔻𝔼 𝕌𝕊𝔸ℝ 〙
 
-📦 Instalação completa (Termux)
+<div align="center">
 
-1. Instalar dependências do sistema
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=FF3B3B&center=true&vCenter=true&width=700&height=70&lines=%E2%9A%A0%EF%B8%8F+USE+POR+SUA+CONTA+E+RISCO+%E2%9A%A0%EF%B8%8F;%F0%9F%9A%A8+API+N%C3%83O+OFICIAL+DO+INSTAGRAM" alt="Aviso"/>
+
+</div>
+
+> **Este bot usa a API privada do Instagram (`instagrapi`), que NÃO é oficial.**
+>
+> O Instagram **pode** detectar o uso, bloquear temporariamente ou **banir permanentemente** a conta que estiver rodando o bot.
+>
+> **O desenvolvedor não se responsabiliza por contas banidas, perdidas ou bloqueadas.** O bot é entregue **como está** ("as is"), sem garantias.
+
+<div align="center">
+
+### 🛡️ ❰ ℂ𝕆𝕄𝕆 ℝ𝔼𝔻𝕌ℤ𝕀ℝ (𝕄𝕌𝕀𝕋𝕆) 𝕆 ℝ𝕀𝕊ℂ𝕆 ❱
+
+| ✅ | Recomendação |
+|:---:|:---|
+| 🥇 | **NUNCA use sua conta principal.** Use uma conta secundária, velha, que você não usa mais. |
+| 🥈 | **Se criar uma conta nova, "aqueça" ela antes.** Deixe **3 a 7 dias parada**. Depois use **manualmente** por mais alguns dias: assista Reels, curta vídeos, comente, siga pessoas, mande mensagens para amigos. |
+| 🥉 | **Não rode o bot 24h no primeiro dia.** Comece com poucas horas e aumente aos poucos. |
+| 🎯 | **Não use o bot para spam.** Mandar a mesma mensagem para dezenas de pessoas é o caminho mais rápido para o ban. |
+| 🛑 | **Se aparecer `ChallengeRequired`, pare o bot imediatamente** e resolva a verificação manualmente no app do Instagram. |
+
+</div>
+
+> 💡 **Regra de ouro:** conta nova + bot rodando direto = ban quase garantido. Conta velha + uso humano + bot = risco baixo.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## ✨ 〘 ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 𝔻𝕀𝕊ℙ𝕆ℕÍ𝕍𝔼𝕀𝕊 〙
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=FFC107&center=true&vCenter=true&width=650&height=60&lines=%F0%9F%8E%B5+M%C3%9ASICA+%E2%80%A2+EDI%C3%87%C3%83O+%E2%80%A2+DIVERS%C3%83O;%F0%9F%93%8C+Prefixo+%C3%BAnico%3A+%2F" alt="Typing"/>
+
+</div>
+
+> 📌 **Prefixo único:** `/` (pode ser alterado em `config.py`)
+
+| Comando | O que faz |
+|:---:|:---|
+| `/menu` | Mostra o menu com imagem |
+| `/play <música>` | Baixa do YouTube e envia (áudio ≤60s, vídeo >60s) |
+| `/corta` *(responder mídia)* | Recorta o centro da foto/vídeo e deixa quadrado 512x512 |
+| `/mudo` *(responder vídeo)* | Remove o áudio do vídeo |
+| `/ping` | Status do bot |
+| `/perfil` | Perfil de brincadeira |
+| `/id` | Mostra seu ID e o ID da conversa |
+| `/dado` | Rola um dado (1–6) |
+| `/moeda` | Cara ou coroa |
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 📱 〘 𝕀ℕ𝕊𝕋𝔸𝕃𝔸ÇÃ𝕆 ℕ𝕆 𝕋𝔼ℝ𝕄𝕌𝕏 〙
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=500&color=FFC107&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%93%A5+Passo+1+%E2%86%92+Instale+o+Termux;%F0%9F%94%84+Passo+2+%E2%86%92+Atualize+o+Termux;%F0%9F%93%A6+Passo+3+%E2%86%92+Instale+os+requisitos" alt="Steps"/>
+</div>
+
+### 🥇 Passo 1 — Instale o Termux
+
+Baixe o **Termux** pelo **F-Droid** (recomendado):
+
+<div align="center">
+
+<a href="https://f-droid.org/packages/com.termux/" target="_blank">
+  <img src="https://img.shields.io/badge/BAIXAR%20TERMUX-F--Droid-FFC107?style=for-the-badge&logo=android&logoColor=black&labelColor=000000"/>
+</a>
+
+</div>
+
+> ⚠️ **Não use** a versão antiga da Play Store — ela está desatualizada.
+
+### 🥈 Passo 2 — Atualize o Termux
 
 ```bash
 pkg update && pkg upgrade -y
+```
+
+🥉 Passo 3 — Instale os requisitos
+
+```bash
 pkg install python ffmpeg git nodejs -y
 ```
 
-O nodejs é necessário para o yt-dlp funcionar bem com o YouTube.
-O ffmpeg é necessário para converter áudio/vídeo.
+<div align="center">
 
-2. Instalar dependências do Python
+Pacote Para que serve
+🟢 python Rodar o bot
+🟢 ffmpeg Processar áudio e vídeo
+🟢 git Clonar o projeto
+🟢 nodejs Necessário para o yt-dlp funcionar bem
+
+</div>
+
+🎁 Passo 4 — Conceda acesso ao armazenamento (opcional)
+
+```bash
+termux-setup-storage
+```
+
+Aceite a permissão que aparecer na tela.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+📥 〘 𝔹𝔸𝕀𝕏𝔸ℝ 𝕆 ℙℝ𝕆𝕁𝔼𝕋𝕆 〙
+
+📦 Passo 5 — Clone o repositório
+
+```bash
+git clone https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-.git ~/BOT-INSTA-JUFU
+```
+
+📂 Passo 6 — Entre na pasta
+
+```bash
+cd ~/BOT-INSTA-JUFU
+```
+
+🔧 Passo 7 — Instale as dependências do Python
 
 ```bash
 pip install instagrapi requests pillow colorama yt-dlp
 ```
 
-3. Baixar o projeto
+<div align="center">
 
-```bash
-cd ~
-git clone https://github.com/SEU-USUARIO/jufufu-bot.git
-cd jufufu-bot
-```
+Pacote Para que serve
+🐍 instagrapi Conectar e falar com o Instagram
+🌐 requests Baixar mídia das URLs
+🖼️ pillow Processar imagens (corta)
+🎨 colorama Banner colorido no terminal
+📥 yt-dlp Baixar música do YouTube
 
-4. Editar o config.py
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+⚙️ 〘 ℂ𝕆ℕ𝔽𝕀𝔾𝕌ℝ𝔸ÇÃ𝕆 〙
+
+📝 Passo 8 — Abra o arquivo de configuração
 
 ```bash
 nano config.py
 ```
 
-Preencha:
+✏️ Passo 9 — Edite os campos principais
 
-· USERNAME — usuário da conta do bot
-· PASSWORD — senha da conta
-· BOT_NOME — nome que aparece no banner
-· MENU_IMAGE_URL — link da imagem do menu
+<div align="center">
 
-Salve com Ctrl+O, Enter, Ctrl+X.
+Campo O que é
+USERNAME Usuário da conta do bot
+PASSWORD Senha da conta
+SESSIONID (opcional) Cookie do navegador
+BOT_NOME Nome exibido no banner
+PREFIXOS Prefixos aceitos (padrão: só /)
+MENU_IMAGE_URL Link da imagem que aparece no /menu
 
-5. Rodar o bot
+</div>
+
+Salve com Ctrl+O → Enter → Ctrl+X.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+▶️ 〘 𝕀ℕ𝕀ℂ𝕀𝔸ℕ𝔻𝕆 𝕆 𝔹𝕆𝕋 〙
+
+🚀 Passo 10 — Rode o bot
 
 ```bash
 python bot.py
 ```
 
-Na primeira execução, o Instagram pode pedir um código de verificação. Digite o código de 6 dígitos que chegar no e-mail/telefone da conta e pressione Enter. A sessão fica salva em jufufu_session.json — nas próximas vezes não precisa digitar de novo.
+📲 Passo 11 — Conecte sua conta do Instagram
 
----
+Na primeira execução, o Instagram pode pedir um código de verificação por e-mail ou SMS. Digite o código de 6 dígitos e pressione Enter.
 
-🔧 Solução de problemas
+A sessão fica salva em jufufu_session.json — nas próximas vezes não precisa digitar de novo.
 
-Erro Solução
-ModuleNotFoundError: No module named 'X' Falta instalar o pacote: pip install X
-IndentationError Abra o arquivo no nano e confira se há tabs misturados com espaços. Use só espaços.
-Invalid sessionid Delete jufufu_session.json e rode de novo.
-ChallengeRequired Resolva a verificação manualmente no app do Instagram antes de rodar de novo.
-direct_send_voice falha Normal. O Instagram descontinuou voice notes. O bot cai automaticamente para vídeo.
-yt-dlp não baixa Instale o nodejs: pkg install nodejs -y
-/corta não funciona O Instagram precisa que você responda a uma mídia (foto ou vídeo) com o comando.
-Bot não responde Confira se você mandou o comando com prefixo (/, ! ou .) e se a conta não está em ChallengeRequired.
+✅ Passo 12 — Verifique se está funcionando
 
----
+Quando o bot conectar, vai aparecer no Termux o banner grande JUFUFU-zzz em amarelo.
 
-🌐 Links oficiais
+Agora manda /menu numa DM do bot, e ele deve responder.
 
- Link
-🤖 Bot WhatsApp (gratuito) github.com/elnataalves12-lang/BOT-JUFUFU-zzz
-📢 Canal oficial (WhatsApp) whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e
-💬 Contato do desenvolvedor +55 91 98550-0390
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
----
+📂 〘 𝔼𝕊𝕋ℝ𝕌𝕋𝕌ℝ𝔸 𝔻𝕆 ℙℝ𝕆𝕁𝔼𝕋𝕆 〙
 
-💛 Licença e gratuidade
+```
+BOT-INSTA-JUFU/
+├── 📄 bot.py                  → arquivo principal do bot
+├── ⚙️ config.py               → configurações do bot
+├── 📦 requirements.txt        → dependências do projeto
+├── 💾 jufufu_session.json     → sessão (criada no 1º login)
+├── 📁 temp/                   → arquivos temporários
+├── 📁 modules/
+│   ├── 🎨 banner.py           → banner do terminal
+│   ├── 🎭 tema.py             → tema visual das respostas
+│   ├── 🔐 login.py            → conexão com o Instagram
+│   ├── 📥 ytdlp.py            → download de música
+│   ├── 🔊 audio.py            → conversão de áudio
+│   ├── ✂️ edits.py            → corta e mudo
+│   └── 💬 comandos.py         → todos os comandos
+└── 📄 README.md               → este arquivo
+```
 
-Este projeto é 100% gratuito e open source. Você pode usar, modificar e compartilhar à vontade.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-· ❌ Não venda o bot.
-· ❌ Não remova os créditos do desenvolvedor.
-· ✅ Compartilhe com quem quiser.
-· ✅ Contribua com melhorias via pull request.
+🔁 〘 𝕀ℕ𝕀ℂ𝕀𝔸ℝ ℕ𝕆𝕍𝔸𝕄𝔼ℕ𝕋𝔼 𝔻𝔼ℙ𝕆𝕀𝕊 〙
 
----
+Para ligar o bot novamente:
 
-📌 Créditos
+```bash
+cd ~/BOT-INSTA-JUFU
+python bot.py
+```
 
-· Desenvolvedor: @elnataalves12-lang
-· Biblioteca principal: instagrapi
-· Download de mídia: yt-dlp
-· Comunidade: todos os membros do canal oficial 💛
+A sessão fica salva em jufufu_session.json, então não precisa logar de novo — desde que você não tenha feito logout no app do Instagram.
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<p align="center">
-  <b>Feito com 💛 pela comunidade JUFUFU-zzz</b><br>
-  <i>Se este bot te ajudou, compartilha com os amigos e entra no canal!</i>
-</p>
+🛠️ 〘 𝕋𝔼ℂℕ𝕆𝕃𝕆𝔾𝕀𝔸𝕊 𝕌𝕊𝔸𝔻𝔸𝕊 〙
 
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e">
-    <img src="https://img.shields.io/badge/Entrar%20no%20Canal-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="80"/>
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" width="80"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="80"/>
+</a>
+<a href="https://ffmpeg.org/" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/video.png" alt="FFmpeg" width="80"/>
+</a>
+<a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="yt-dlp" width="80"/>
+</a>
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-" target="_blank">
+  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="80"/>
+</a>
+
+
+
+
+
+🟢 Python 🟡 Instagram 🟠 Git 🔵 FFmpeg 🔴 yt-dlp ⚫ GitHub
+Linguagem Conexão Versionamento Mídia Download Código
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+🔒 〘 𝕊𝔼𝔾𝕌ℝ𝔸ℕÇ𝔸 〙
+
+<div align="center">
+
+⚠️ ❰ ℕ𝕌ℕℂ𝔸 ℙ𝕌𝔹𝕃𝕀ℚ𝕌𝔼 𝕆𝕌 ℂ𝕆𝕄ℙ𝔸ℝ𝕋𝕀𝕃ℍ𝔼 ❱
+
+❌ ❌ ❌
+Usuário e senha jufufu_session.json config.py preenchido
+Cookies do navegador Pasta temp/ Credenciais pessoais
+
+</div>
+
+Cada pessoa deve rodar sua própria cópia e conectar sua própria conta do Instagram.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+🔗 〘 𝕃𝕀ℕ𝕂𝕊 𝕆𝔽𝕀ℂ𝕀𝔸𝕀𝕊 〙
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20REPOSIT%C3%93RIO-INSTAGRAM-FFC107?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Repositório"/>
+</a>
+
+
+
+
+
+<a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A2%20CANAL%20OFICIAL-ENTRAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Canal"/>
+</a>
+
+
+
+
+
+<a href="https://wa.me/5591985500390" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20DESENVOLVEDOR-CONTATO-FFC107?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000" alt="Contato"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+⭐ 〘 𝔸ℙ𝕆𝕀𝔼 𝕆 ℙℝ𝕆𝕁𝔼𝕋𝕆 〙
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFC107&center=true&vCenter=true&width=600&height=50&lines=%E2%AD%90+Deixe+uma+estrela+no+reposit%C3%B3rio!;%F0%9F%92%9B+Sua+ajuda+%C3%A9+muito+importante!;%F0%9F%9A%80+Vamos+crescer+juntos!" alt="Star"/>
+
+<br>
+
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-/stargazers">
+  <img src="https://img.shields.io/github/stars/elnataalves12-lang/BOT-JUFUFU-Instagram-?style=for-the-badge&logo=github&color=FFC107&labelColor=000000&label=DAR%20UMA%20ESTRELA"/>
+</a>
+
+
+
+
+
+🤖 𝕁𝕌𝔽𝕌𝔽𝕌-𝕫𝕫𝕫
+
+Feito para a comunidade. 💛
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=140&section=footer&text=Obrigado%20por%20visitar!&fontSize=35&fontColor=000000&animation=twinkling"/>
+
+</div>
+```
+
