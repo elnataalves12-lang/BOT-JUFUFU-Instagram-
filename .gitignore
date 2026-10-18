@@ -1,0 +1,22 @@
+# Sessão do Instagram
+jufufu_session.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Segredos
+.env
+.env.*
+*.secret
+secrets.json
+
+# Logs
+*.log
