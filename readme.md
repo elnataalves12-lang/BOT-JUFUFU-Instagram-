@@ -14,11 +14,11 @@
 
 <br>
 
-<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz">
-  <img src="https://img.shields.io/badge/WhatsApp%20Bot-Gr%C3%A1tis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-">
+  <img src="https://img.shields.io/badge/Instagram%20Bot-Gr%C3%A1tis-FFC107?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/>
 </a>
 <a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e">
-  <img src="https://img.shields.io/badge/Canal%20Oficial-Entrar-FFC107?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Canal%20Oficial-Entrar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
 </a>
 <a href="https://wa.me/5591985500390">
   <img src="https://img.shields.io/badge/Desenvolvedor-Contato-FFC107?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000"/>
@@ -161,13 +161,13 @@ Aceite a permissão que aparecer na tela.
 📦 Passo 5 — Clone o repositório
 
 ```bash
-git clone https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz.git
+git clone https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-.git ~/BOT-INSTA-JUFU
 ```
 
 📂 Passo 6 — Entre na pasta
 
 ```bash
-cd BOT-JUFUFU-zzz
+cd ~/BOT-INSTA-JUFU
 ```
 
 🔧 Passo 7 — Instale as dependências do Python
@@ -246,7 +246,7 @@ Agora manda /menu numa DM do bot, e ele deve responder.
 📂 〘 𝔼𝕊𝕋ℝ𝕌𝕋𝕌ℝ𝔸 𝔻𝕆 ℙℝ𝕆𝕁𝔼𝕋𝕆 〙
 
 ```
-jufufu-bot/
+BOT-INSTA-JUFU/
 ├── 📄 bot.py                  → arquivo principal do bot
 ├── ⚙️ config.py               → configurações do bot
 ├── 📦 requirements.txt        → dependências do projeto
@@ -272,7 +272,7 @@ jufufu-bot/
 Para ligar o bot novamente:
 
 ```bash
-cd ~/jufufu-bot
+cd ~/BOT-INSTA-JUFU
 python bot.py
 ```
 
@@ -301,7 +301,7 @@ A sessão fica salva em jufufu_session.json, então não precisa logar de novo �
 <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
   <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="yt-dlp" width="80"/>
 </a>
-<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz" target="_blank">
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-" target="_blank">
   <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="80"/>
 </a>
 
@@ -342,8 +342,8 @@ Cada pessoa deve rodar sua própria cópia e conectar sua própria conta do Inst
 
 <br>
 
-<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20BOT%20WHATSAPP-GR%C3%81TIS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Bot WhatsApp"/>
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20REPOSIT%C3%93RIO-INSTAGRAM-FFC107?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Repositório"/>
 </a>
 
 
@@ -351,7 +351,7 @@ Cada pessoa deve rodar sua própria cópia e conectar sua própria conta do Inst
 
 
 <a href="https://whatsapp.com/channel/0029VbDHw0fAO7RBFTJ3rn1e" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A2%20CANAL%20OFICIAL-ENTRAR-FFC107?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000" alt="Canal"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A2%20CANAL%20OFICIAL-ENTRAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Canal"/>
 </a>
 
 
@@ -376,8 +376,8 @@ Cada pessoa deve rodar sua própria cópia e conectar sua própria conta do Inst
 
 <br>
 
-<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-zzz/stargazers">
-  <img src="https://img.shields.io/github/stars/elnataalves12-lang/BOT-JUFUFU-zzz?style=for-the-badge&logo=github&color=FFC107&labelColor=000000&label=DAR%20UMA%20ESTRELA"/>
+<a href="https://github.com/elnataalves12-lang/BOT-JUFUFU-Instagram-/stargazers">
+  <img src="https://img.shields.io/github/stars/elnataalves12-lang/BOT-JUFUFU-Instagram-?style=for-the-badge&logo=github&color=FFC107&labelColor=000000&label=DAR%20UMA%20ESTRELA"/>
 </a>
 
 
@@ -394,3 +394,4 @@ Feito para a comunidade. 💛
 
 </div>
 ```
+
